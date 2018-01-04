@@ -1,0 +1,1 @@
+{"name":"imdb in classs 01 demo","repository":"https://github.com/alonsogtz/imdb_in_classs_01_demo","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
